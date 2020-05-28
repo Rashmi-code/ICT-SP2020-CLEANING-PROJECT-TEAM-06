@@ -7,11 +7,11 @@
 				<div class="row">
 					<!-- col-md-6 -->
 					<div class="col-md-6 col-sm-6">
-						<p><img src="images/icon/thumbs-icon.png" alt="thumbs-icon"/>Best cleaning company website forever!</p>
+						<p><img src="images/icon/thumbs-icon.png" alt="thumbs-icon"/>Best Bond Cleaning Service in Australia!</p>
 					</div><!-- col-md-6 /- -->
 					<!-- col-md-6 -->
 					<div class="col-md-6 col-sm-6 text-right">
-						<p><img src="images/icon/clock-icon.png" alt="clock-icon"/>working hours : Mon-sat (8.00am - 6.00PM)</p>
+						<p><img src="images/icon/clock-icon.png" alt="clock-icon"/>working hours : Mon-sat (8.00am - 7.00PM)</p>
 					</div><!-- col-md-6 /- -->
 				</div>
 			</div><!-- container /- -->
