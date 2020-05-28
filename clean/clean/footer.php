@@ -6,7 +6,7 @@
 				<h3>Call Now: +(01) 800 527 4800</h3>
 			</div>
 			<aside class="col-md-3 col-sm-3 widget widget-link">
-				<h3>Clenaing services</h3>
+				<h3>7to7 Cleaning services</h3>
 				<ul>
 					<li><a title="Home Cleaning" href="#"><i class="fa fa-tint"></i> Home Cleaning</a></li>
 					<li><a title="Building Cleaning" href="#"><i class="fa fa-tint"></i> End of Lease Cleaning</a></li>
