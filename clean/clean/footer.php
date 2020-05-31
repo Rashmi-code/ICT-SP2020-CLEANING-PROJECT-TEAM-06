@@ -41,9 +41,9 @@
 				<form>
 					<input type="text" name="square-meter" placeholder="SIZE OF AREA  (sQUARE METERS)" required />
 					<select>
-						<option>choose the type of service</option>
-						<option>choose the type of service</option>
-						<option>choose the type of service</option>
+						<option>End Of lease Cleaning</option>
+						<option>Domestic Cleaning</option>
+						<option>Carpet Cleaning</option>
 						<option>choose the type of service</option>
 					</select>
 					<input type="submit" value="submit query" />

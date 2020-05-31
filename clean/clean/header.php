@@ -94,7 +94,7 @@
 						</div><!-- /.navbar-collapse -->
 					</nav><!-- col-md-8 /- -->
 					<div class="col-md-4 quote">
-						<a  title="Free Quote" href="#">free instant quote</a>
+						<a  title="Free Quote" href="#">Free Instatnt Quote</a>
 					</div>
 				</div>
 			</div><!-- /.container -->

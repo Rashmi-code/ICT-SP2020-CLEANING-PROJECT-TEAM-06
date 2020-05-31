@@ -166,10 +166,10 @@
 									</a>					
 								</td>
 								<td class="product-name">
-									<a title="Product Name" href="#">Method Squirt + Mop Hard Floor Cleaner</a>
+									<a title="Product Name" href="#">Method Squirt</a>
 								</td>
 								<td data-title="Price" class="product-price">
-									<span class="amount">$18.00</span>
+									<span class="amount">$19</span>
 								</td>
 								<td data-title="Quantity" class="product-quantity">
 									<div class="quantity">
@@ -179,7 +179,7 @@
 									</div>
 								</td>
 								<td data-title="Total" class="product-subtotal">
-									<span class="amount">£36.00</span>
+									<span class="amount">£36</span>
 								</td>
 								<td class="product-remove">
 									<a title="Remove this item" class="remove" href="#"><img src="images/icon/close.png" alt="close" /></a>
@@ -205,7 +205,7 @@
 								<tbody>
 									<tr class="cart-subtotal">
 										<th>SubTotal</th>
-										<td><span class="amount">$196.00</span></td>
+										<td><span class="amount">$196</span></td>
 									</tr>
 									<tr class="shipping">
 										<th>Shipping Charge </th>
@@ -213,14 +213,14 @@
 									</tr>
 									<tr class="order-total">
 										<th>Total</th>
-										<td><strong><span class="amount">$196.00</span></strong> </td>
+										<td><strong><span class="amount">$196</span></strong> </td>
 									</tr>
 								</tbody>
 							</table>
 						</div>						
 					</div>
 					<div class="wc-proceed-to-checkout">
-						<a title="Proceed To CheckOut" class="btn" href="http://localhost/_punit/ulysses/checkout/">Proceed to Checkout</a>
+						<a title="Proceed To CheckOut" class="btn" href="http://localhost/_punit/ulysses/checkout/"> Checkout</a>
 					</div>
 				</div>
 
