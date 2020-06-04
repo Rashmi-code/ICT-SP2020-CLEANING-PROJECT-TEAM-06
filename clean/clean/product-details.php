@@ -27,7 +27,7 @@
 	<link href="style.css" rel="stylesheet"/>
     <link href="css/media.css" rel="stylesheet"/>
     
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- HTML5 is shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="js/html5/html5shiv.min.js"></script>

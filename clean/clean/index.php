@@ -111,7 +111,7 @@
 			<!-- Section Header -->
 			<div class="section-header">
 				<h3><img src="images/icon/sep-icon.png" alt="sep-icon" /> service we offer</h3>
-			</div><!-- Section Header /- -->
+			</div><!-- Section Header  /- -->
 			
 			<div id="make-clean-service" class="owl-carousel owl-theme services-style1">
 				<div class="item">

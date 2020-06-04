@@ -17,7 +17,7 @@
 			</div><!-- container /- -->
 		</div><!-- Top Header /- -->
 		
-		<!-- Logo Block -->
+		<!--- Logo Block --->
 		<div class="logo-block">
 			<!-- container -->
 			<div class="container">
