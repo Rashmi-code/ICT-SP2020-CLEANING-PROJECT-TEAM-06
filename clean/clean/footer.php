@@ -29,9 +29,9 @@
 			<aside class="col-md-2 col-sm-2 widget widget-link">
 				<h3>page links</h3>
 				<ul>
-					<li><a title="Home" href="index.html"><i class="fa fa-tint"></i> Home</a></li>
-					<li><a title="About Us" href="#"><i class="fa fa-tint"></i> About Us</a></li>
-					<li><a title="Services" href="#"><i class="fa fa-tint"></i> Services</a></li>
+					<li><a title="Home" href="index.html"><i class="fa fa-tint"></i> Home </a></li>
+					<li><a title="About Us" href="#"><i class="fa fa-tint"></i> About Us </a></li>
+					<li><a title="Services" href="#"><i class="fa fa-tint"></i> Services </a></li>
 					
 				</ul>
 			</aside>

@@ -29,7 +29,7 @@
 <body data-offset="200" data-spy="scroll" data-target=".primary-navigation">
 	<a id="top"></a>
 	
-	<!-- Header Section -->
+	<!---Header Section --->
 	<?php include"header.php" ?>
 	<!-- Page Banner -->
 	<div id="page-banner" class="page-banner">

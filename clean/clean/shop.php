@@ -61,8 +61,8 @@
 						<div class="container">
 							<div class="col-md-5 pull-right discount">
 								<h5 class="discount"><b><span>Get</span> <span>20%</span></b>OFFER ON ORDER OVER $99</h5>
-								<h4>we’ve provided quality cleaning products</h4>
-								<a title="Shop Now" href="#" class="btn">SHOP NOW</a>
+								<h4>We’ve provided quality cleaning products</h4>
+								<a title="Shop Now" href="#" class="btn"> SHOP NOW </a>
 							</div>
 						</div>
 					</div>
