@@ -160,20 +160,15 @@ $insertSQL = sprintf("INSERT INTO log (user, dt) VALUES (%s, %s)",
             <form id="login" action="<?php echo $loginFormAction; ?>" method="POST">
             <div class="username">
                	<div class="usernameinner">
-                    	<input type="text" name="username" id="username" />
+                    	<input type="text" name="username" id="username" placeholder="Email ID" />
                     </div>
                 </div>
                 
-                <div class="password">
-                	<div class="passwordinner">
-                    	<input type="password" name="password" id="password" />
-                    </div>
-                </div>
                 
-                <button>Sign In</button><br />
+                
+                <button>Request</button><br />
 <br />
 
-               <center><a href="forget_password.php" style="font-size:18px; color:#FFFFFF">Forget Password</a></center>
                 <!--<div class="keep"><input type="checkbox" /> Keep me logged in</div>-->
             
             </form>

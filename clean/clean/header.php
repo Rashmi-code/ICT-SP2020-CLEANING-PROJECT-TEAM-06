@@ -7,7 +7,7 @@
 				<div class="row">
 					<!-- col-md-6 -->
 					<div class="col-md-6 col-sm-6">
-						<p><img src="images/icon/thumbs-icon.png" alt="thumbs-icon"/>Best Bond Cleaning Service in Australia!</p>
+						<p><img src="images/icon/thumbs-icon.png" alt="thumbs-icon"/>Best Bond Cleaning Service in Australia</p>
 					</div><!-- col-md-6 /- -->
 					<!-- col-md-6 -->
 					<div class="col-md-6 col-sm-6 text-right">
