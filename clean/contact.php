@@ -64,7 +64,7 @@
 				<img src="images/icon/customer-service-icon.png" alt="Address" />
 				<h3>Customer service</h3>
 				<p>+61 402 957 786</p>
-				<p><a title="Mail Title" href="mailto:Clean@Example.com">7to7cleaningservices@gmail.com</a></p>
+				<p><a title="Mail Title" href="mailto:Clean@Example.com">7to7cleaning@gmail.com</a></p>
 			</div>
 			
 			<div class="col-md-4 col-sm-4 col-xs-4 contact-detail-box">

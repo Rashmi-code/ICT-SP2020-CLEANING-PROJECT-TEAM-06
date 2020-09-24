@@ -43,7 +43,7 @@
 				
 				
 				<?php include("connection.php");
-				$data_pic =mysqli_query($link,"SELECT * from photo order by sno desc");
+				$data_pic = mysqli_query($link,"SELECT * from photo order by sno desc");
 	$i=1;			
 while($row=mysqli_fetch_array($data_pic)){ 
 
